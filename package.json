@@ -1,0 +1,22 @@
+{
+  "name": "pagina",
+  "version": "1.0.0",
+  "description": "Pagina para la clase de desarrollo de aplicaciones de vanguardia",
+  "main": "index.js",
+  "scripts": {
+    "test": "siu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bruh03-OS/RepositorioVanguardia.git"
+  },
+  "keywords": [
+    "SIU"
+  ],
+  "author": "JSalza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bruh03-OS/RepositorioVanguardia/issues"
+  },
+  "homepage": "https://github.com/Bruh03-OS/RepositorioVanguardia#readme"
+}
