@@ -4,7 +4,8 @@
   "description": "Pagina para la clase de desarrollo de aplicaciones de vanguardia",
   "main": "index.js",
   "scripts": {
-    "test": "siu"
+    "test": "siu",
+    "Siu": "node index.js"
   },
   "repository": {
     "type": "git",
