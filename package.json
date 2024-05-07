@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Bruh03-OS/RepositorioVanguardia#readme",
   "dependencies": {
+    "axios": "^1.6.8",
     "express": "^4.19.2",
     "mongodb": "^6.5.0",
     "mongoose": "^8.3.2",
